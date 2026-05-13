@@ -1,15 +1,3 @@
-## Hi there 👋
-<!-- Header -->
-<div align="center">
-<!-- Header -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=I%20A%20Liyanage&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 👋 Hey there! I'm **I A Liyanage**
