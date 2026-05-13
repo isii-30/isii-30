@@ -1,6 +1,8 @@
 ## Hi there 👋
 <!-- Header -->
 <div align="center">
+<!-- Header -->
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=I%20A%20Liyanage&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
@@ -22,29 +24,19 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```dart
-class Developer {
-  String name     = "I A Liyanage";
-  String role     = "Flutter & Mobile Developer";
-  String location = "Colombo, Sri Lanka 🇱🇰";
-  
-  List<String> currentlyBuilding = [
-    "💪 FitMind   — AI Health & Fitness Coach App",
-    "🛍️  ShopBot   — AI-powered E-commerce App",
-    "🎓 LinguaAI  — AI Language Learning App",
-  ];
+Hi, I'm **I A Liyanage** — a Flutter developer based in Colombo, Sri Lanka 🇱🇰
 
-  List<String> superpowers = [
-    "Building beautiful cross-platform mobile apps",
-    "Integrating AI & ChatGPT into real products",
-    "Turning ideas into polished apps for clients",
-  ];
+I focus on building mobile apps that are clean, fast, and actually solve real problems. Over the past while, I've worked on projects ranging from real-time GPS tracking systems to event management platforms — each one teaching me something new about building software people can rely on.
 
-  String funFact = "I can fix a bug faster than I can make a cup of tea ☕";
-}
-```
+I care a lot about the details — not just making something that works, but making sure it works *well* and looks good doing it. Whether I'm working solo or as part of a team, I try to write code that's easy to understand, maintain, and build on.
+
+Right now I'm deepening my skills in AI integration — bringing ChatGPT and Gemini into mobile apps to create smarter, more helpful experiences for end users.
+
+If you're looking for someone who takes your project seriously and communicates clearly throughout — I'd be happy to work with you.
+
+
 
 ---
 
@@ -72,48 +64,46 @@ class Developer {
 
 ---
 
-## 🔥 Currently Building — Portfolio Apps
+## ✅ Completed Projects
 
 <div align="center">
 
-| # | App | Category | AI Feature | Status |
-|---|-----|----------|------------|--------|
-| 💪 | **FitMind** — AI Health Coach | Health & Fitness | ChatGPT Coach Bot | 🔨 In Progress |
-| 🛍️ | **ShopBot** — AI E-commerce | E-commerce | AI Product Recommender | 📋 Planned |
-| 🎓 | **LinguaAI** — Language App | Education + Social | AI Language Tutor | 📋 Planned |
+| # | Project | Description | Tech | Status |
+|---|---------|-------------|------|--------|
+| 🚐 | **School Van Tracking App** | Real-time GPS tracking for parents & drivers | Flutter, Firebase, Google Maps | ✅ Completed |
+| 📋 | **Project Allocation App** | Smart team & task assignment management system | Flutter, Firebase, REST API | ✅ Completed |
+| 🎉 | **Event Management App** | Full event planning, ticketing & attendee management | Flutter, Firebase | ✅ Completed |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I Can Build For You
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=isii-30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=48CAE4&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isii-30&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=48CAE4&currStreakLabel=ffffff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isii-30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" width="40%" />
+| 🚀 Service | 📝 Details |
+|-----------|-----------|
+| **Custom Flutter App** | Full cross-platform app for Android & iOS from scratch |
+| **AI Chatbot Integration** | Add ChatGPT or Gemini to any existing or new app |
+| **Firebase Backend** | Auth, Firestore database, real-time data, push notifications |
+| **Maps & Location Features** | GPS tracking, route display, geofencing with Google Maps |
+| **Payment Integration** | Stripe or local payment gateway inside your Flutter app |
+| **UI/UX Polish** | Turn a rough layout into a clean, professional-looking app |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌱 Currently Learning & Exploring
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=isii-30&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isii-30&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=48CAE4&point=ffffff" width="100%"/>
+![ChatGPT Integration](https://img.shields.io/badge/ChatGPT-Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-State%20Management-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 </div>
 
@@ -143,18 +133,3 @@ class Developer {
 ![Visitor Count](https://komarev.com/ghpvc/?username=isii-30&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
-
-<!--
-**isii-30/isii-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
